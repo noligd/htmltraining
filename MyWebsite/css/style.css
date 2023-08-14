@@ -1,0 +1,39 @@
+body{
+    background-color: #F4F4F4;
+    
+    /* Body Text Styles */
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    line-height: 22px;
+    letter-spacing: 1px;
+}
+
+.logoName{
+    margin: 80px;
+    /* setting the maximun witdh of thje DIV */
+    max-width: 900px;
+    /* These 3 setup is needed to centre align content widhin DIV*/
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img{
+    max-width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Text content */
+socialicons p{
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+p{
+    font-size: 16px;
+}
+
+ssdsdsdsd

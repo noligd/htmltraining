@@ -4,6 +4,7 @@ body{
    font-size: 20px;
    line-height: 30px;
 }
+/* this is how you write a comment on CSS */
 
 header{
     background-color: #D14625;
@@ -79,3 +80,5 @@ p.caption{
     margin-top: 0px;
     font-style: italic;
 }
+
+
