@@ -6,10 +6,14 @@ body{
     text-align: center;
     line-height: 22px;
     letter-spacing: 1px;
+    font-size: 14px;
+    color: rgb(65, 65, 65);
+   
+ 
 }
-
+/* Logo content */
 .logoName{
-    margin: 80px;
+    margin: 40px;
     /* setting the maximun witdh of thje DIV */
     max-width: 900px;
     /* These 3 setup is needed to centre align content widhin DIV*/
@@ -32,8 +36,19 @@ socialicons p{
     font-weight: 600;
 }
 
-p{
-    font-size: 16px;
+/* Filter gallery content */
+.GalleryFilter{
+    padding: 50px;
 }
 
-ssdsdsdsd
+filter lu {
+    background-color: #FFFFFF;
+    padding: 5px 10px;
+    font-size: 12px;
+    font-weight: 300;
+    text-transform: uppercase;
+}
+
+.galleryImage{
+    padding: 50px;
+}
